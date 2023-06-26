@@ -7,7 +7,7 @@
         private List<Shifts> savedShifts;
         private IView shiftLabels;
 
-        public object ShiftLabel { get; private set; }
+       
 
         public MainPage()
         {
