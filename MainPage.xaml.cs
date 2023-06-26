@@ -49,6 +49,8 @@
                 holidayAccrued = workedDays * 0.107;
             }
 ;
+//from line 18 to line 49, te code has been created with ChatGpt, however, I have done the calculations, for example on lane 49, also, I have created all the variables. I needed help with syntax in this matter
+//so the rest of the code was easier to create
 
             // Calculate the earnings based on the hourly rate
             double hourlyRate = 15.0; // Assuming hourly rate is £15 for weekdays
