@@ -13,6 +13,8 @@
                 SemanticProperties.Description="Difference between work and holiday!"
                 HeightRequest="100"
                 HorizontalOptions="Center" />
+<!-- In order to add an image to my project, I have saved an image from google and then dragged and dropped it into the Resources folder-Images  -->
+<!-- To have the image on my page, I have put the name of the picture into the Source line of the image  -->
 
         <Label Text="Monday" FontSize="10" />
         <Entry x:Name="MondayHoursEntry" Placeholder="Enter hours" Keyboard="Numeric" />
